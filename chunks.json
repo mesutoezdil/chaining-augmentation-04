@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "chunk": "This is an example chunk of text.",
+        "vector": [
+            0.1,
+            0.2,
+            0.3
+        ],
+        "metadata": "Example metadata"
+    }
+]
